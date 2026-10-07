@@ -1,3 +1,4 @@
+# Analyzed with SonarQube Cloud for SQE Lab 5 (Software Metrics).
 # Delivery App Mobile
 
 Food delivery app built with React Native
